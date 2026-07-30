@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer (Node.js) Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Second-Year+CS+Student+%40+Mansoura+University;Backend+Developer+%7C+Node.js+Enthusiast;Always+Learning+%2C+Always+Building+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=2nd-Year+CS+Student+%40+Mansoura+University;Backend+Developer+%7C+Node.js+Enthusiast;Always+Learning+%2C+Always+Building+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
